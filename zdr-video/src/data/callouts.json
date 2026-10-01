@@ -1,0 +1,18 @@
+{
+ "_note": "Advert copy shown in instrumental gaps and on the end card. Every line repeats a claim the song already makes (zero data retention, nothing saved, nothing stored). Times are ms from the start of the song; cards snap to the nearest beat. accent lists words drawn in the brand gradient.",
+ "callouts": [
+  {"startMs": 27760, "endMs": 29300, "lines": ["ZDR MODE:", "ON"], "accent": ["ON"], "size": 104},
+  {"startMs": 51500, "endMs": 53250, "lines": ["PROMPT IN"], "accent": ["IN"], "size": 112},
+  {"startMs": 53250, "endMs": 55050, "lines": ["ANSWER OUT"], "accent": ["OUT"], "size": 112},
+  {"startMs": 55050, "endMs": 56800, "lines": ["NOTHING", "KEPT"], "accent": ["KEPT"], "size": 112},
+  {"startMs": 59350, "endMs": 61450, "lines": ["YOUR PROMPTS:", "NEVER STORED"], "accent": ["NEVER", "STORED"], "size": 84},
+  {"startMs": 61450, "endMs": 63400, "lines": ["ZERO DATA", "RETENTION"], "accent": ["ZERO"], "size": 100},
+  {"startMs": 65650, "endMs": 67850, "lines": ["NOTHING", "SAVED."], "accent": ["SAVED."], "size": 108},
+  {"startMs": 67850, "endMs": 70000, "lines": ["NOTHING", "STORED."], "accent": ["STORED."], "size": 108},
+  {"startMs": 72600, "endMs": 74900, "lines": ["SESSION ENDED", "MEMORY CLEARED"], "accent": ["CLEARED"], "size": 76}
+ ],
+ "endCard": {
+  "label": "Zero Data Retention",
+  "tagline": ["Nothing saved.", "Nothing stored."]
+ }
+}
